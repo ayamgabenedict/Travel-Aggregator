@@ -140,44 +140,6 @@ The Datasets directory in this project consists of the following two files:
 
 **The following are screenshoots of the outputs of required tasks in this project:**
 
-
-![Q1 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q1_output.png)
-
-![Q2 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q2_output.png)
-
-![Q3 A output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/3e309300bbd8eb9d77f1662ba38b5e8ba6b48d63/imgs/Q3_a_output.png)
-
-![Q3 B output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q3_b_output.png)
-
-![Q4 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q4_output.png)
-
-![Q5 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q5_output.png)
-
-![Q6 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q6_output.png)
-
-![Q7 A output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q7_a_output.png)
-
-![Q7 B output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q7_b_output.png)
-
-![Q8 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q8_output.png)
-
-![Q9 A output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q9_a_output.png)
-
-![Q9 B output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q9_b_output.png)
-
-![Q10 A output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q10_a_output.png)
-
-![Q10 B output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q10_b_output.png)
-
-![Q10 C output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q10_c_output.png)
-
-
-![Q1 output](imgs/Q1_output.png)
-
-![Q2 output](imgs/Q2_output.png)
-
-
-
 ![Q1 output](imgs/Q1_output.png)
 
 ![Q2 output](imgs/Q2_output.png)
