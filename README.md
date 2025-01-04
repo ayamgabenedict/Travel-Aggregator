@@ -170,3 +170,6 @@ The Datasets directory in this project consists of the following two files:
 ![Q10 B output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q10_b_output.png)
 
 ![Q10 C output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/8ab220855027c1fc770701b3d62b8204f41b3794/imgs/Q10_c_output.png)
+
+
+![Q1 output](imgs/Q1_output.png)
