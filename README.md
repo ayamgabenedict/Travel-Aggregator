@@ -173,3 +173,7 @@ The Datasets directory in this project consists of the following two files:
 
 
 ![Q1 output](imgs/Q1_output.png)
+
+![Q2 output](imgs/Q2_output.png)
+
+
