@@ -141,6 +141,7 @@ The Datasets directory in this project consists of the following two files:
 **The following are screenshoots of the outputs of required tasks in this project:**
 
 ![Q1 output](imgs\Q1_output.png)
+![Q1 output](https://github.com/ayamgabenedict/Travel-Aggregator/blob/main/imgs/Q10_a_output.png)
 
 ![Q2 output](imgs\Q2_output.png)
 
